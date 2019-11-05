@@ -1,0 +1,14 @@
+C:\Users\TungVV\source\repos\Real_Time\Real_Time\bin\Debug\netcoreapp2.2\Real_Time.deps.json
+C:\Users\TungVV\source\repos\Real_Time\Real_Time\bin\Debug\netcoreapp2.2\Real_Time.runtimeconfig.json
+C:\Users\TungVV\source\repos\Real_Time\Real_Time\bin\Debug\netcoreapp2.2\Real_Time.runtimeconfig.dev.json
+C:\Users\TungVV\source\repos\Real_Time\Real_Time\bin\Debug\netcoreapp2.2\Real_Time.dll
+C:\Users\TungVV\source\repos\Real_Time\Real_Time\obj\Debug\netcoreapp2.2\Real_Time.csprojAssemblyReference.cache
+C:\Users\TungVV\source\repos\Real_Time\Real_Time\obj\Debug\netcoreapp2.2\Real_Time.csproj.CoreCompileInputs.cache
+C:\Users\TungVV\source\repos\Real_Time\Real_Time\obj\Debug\netcoreapp2.2\Real_Time.RazorAssemblyInfo.cache
+C:\Users\TungVV\source\repos\Real_Time\Real_Time\obj\Debug\netcoreapp2.2\Real_Time.RazorAssemblyInfo.cs
+C:\Users\TungVV\source\repos\Real_Time\Real_Time\obj\Debug\netcoreapp2.2\Real_Time.AssemblyInfoInputs.cache
+C:\Users\TungVV\source\repos\Real_Time\Real_Time\obj\Debug\netcoreapp2.2\Real_Time.AssemblyInfo.cs
+C:\Users\TungVV\source\repos\Real_Time\Real_Time\obj\Debug\netcoreapp2.2\Real_Time.RazorTargetAssemblyInfo.cache
+C:\Users\TungVV\source\repos\Real_Time\Real_Time\bin\Debug\netcoreapp2.2\Real_Time.pdb
+C:\Users\TungVV\source\repos\Real_Time\Real_Time\obj\Debug\netcoreapp2.2\Real_Time.dll
+C:\Users\TungVV\source\repos\Real_Time\Real_Time\obj\Debug\netcoreapp2.2\Real_Time.pdb
